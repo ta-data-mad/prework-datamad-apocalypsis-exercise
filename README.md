@@ -1,4 +1,4 @@
-# prework-datamad-apocalypsis-exercise
+# prework-datamad-apocalypsis-exercise-solution
 
 ![](./images/thewalkingdead.jpeg)
 
